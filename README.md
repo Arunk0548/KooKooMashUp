@@ -8,7 +8,9 @@ Steps to use the service: Before using the service, you must ensure “DND” is
 ~~~
 Go to your phone’s “Messages” menu and select new message
 
-And Type  "HACKAR source to destination" like HACKAR majestic to electronic city or HACKAR btm layout water tank to eletronic city, you message should start with "HACKAR" folowed by single space and source name followed by "to" and then destination name.
+And Type  "HACKAR source to destination" like HACKAR majestic to electronic city or
+HACKAR btm layout water tank to eletronic city, you message should start with "HACKAR" folowed by 
+single space and source name followed by "to" and then destination name.
 
 And send the message to " 09227507512 " 
 
