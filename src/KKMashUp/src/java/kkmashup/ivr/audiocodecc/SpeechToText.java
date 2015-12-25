@@ -29,7 +29,7 @@ public class SpeechToText {
     private boolean IsResponseReceived;
 
     public String getAuddioText(String audioUrl, ServletContext context) {
-        RecognizerChunked chunked = new RecognizerChunked("AIzaSyCj7lkmUFWn6K5Rjb6jI_YLzON8zRU_azo", "en-in");
+        RecognizerChunked chunked = new RecognizerChunked("API_KEY", "en-in");
 
         try {
             IsResponseReceived = false;
